@@ -1,0 +1,3 @@
+1salary 1134 id 0 age 111
+2id 1 age 45 hrs_allow 546 hr_rate 89
+3id 2 age 1312 hour_rate 5345
